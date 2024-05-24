@@ -7,7 +7,7 @@ This is a simple counter app built with Vue 3 and Pinia.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/counter-app.git
+git clone https://github.com/Yuvaraj643/counter-app.git
 ```
 
 2. Install dependencies
