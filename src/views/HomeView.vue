@@ -8,3 +8,4 @@ import TheWelcome from '../components/TheWelcome.vue'
     
   </main>
 </template>
+ 

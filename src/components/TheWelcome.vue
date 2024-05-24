@@ -18,7 +18,7 @@
         Increment
       </button>
     </div>
-  </div>
+  </div> 
 </template>
 
 <script>
