@@ -13,14 +13,14 @@
         <span class="shadow"></span>
         <span class="edge"></span>
         <span class="front text"> Reset </span>
-      </button>
+      </button> 
       <button class="btn-donate" @click="counterStore.increment">
         Increment
       </button>
-    </div>
+    </div> 
   </div> 
 </template>
-
+  
 <script>
 import { useCounterStore } from "@/stores/counter";
 export default {
